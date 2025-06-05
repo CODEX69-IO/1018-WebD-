@@ -5,3 +5,4 @@ To run the project there are some instructions below :-
 - you have not renamed any file .
 - you are using a proper browser.
 ![image alt](https://github.com/CODEX69-IO/1018-WebD-/blob/main/Screenshot%202024-11-08%20221735.png?raw=true)
+<img src="https://github.com/CODEX69-IO/1018-WebD-/blob/main/Screenshot%202024-11-08%20221735.png?raw=true" >
